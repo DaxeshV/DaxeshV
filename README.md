@@ -24,7 +24,7 @@ Senior mobile engineer focused on shipping polished, reliable apps with **React 
 - **UI/Animation:** Rive, Lottie, custom painters; Figma-friendly, pixel-perfect handoff
 
 ## Recent highlights
-- Led Flutter builds and feature delivery for fintech and edtech products (remote teams).
+- Lead Flutter team and feature delivery for fintech and edtech products (remote teams).
 - Scaled subscription funnels with RevenueCat + experiments, improving conversion and retention tracking.
 - Built iOS SwiftUI features with WidgetKit, async/await networking, and StoreKit purchase flows.
 - Set up release pipelines (Fastlane/Bitrise) to cut manual steps and reduce release friction.
