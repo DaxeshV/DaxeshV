@@ -2,6 +2,24 @@
 
 Senior mobile engineer focused on shipping polished, reliable apps with **React Native/Expo**, **Flutter/Dart**, and **iOS (Swift/SwiftUI)**. I love clean architecture, smooth animations, and getting features into the store without drama.
 
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Native-0A0A0A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-111111?logo=expo&logoColor=fff&style=for-the-badge" alt="Expo" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" alt="Flutter" />
+  <img src="https://img.shields.io/badge/iOS%20Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" alt="Swift" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=fff&style=for-the-badge" alt="Fastlane" />
+  <img src="https://img.shields.io/badge/RevenueCat-7C3AED?logo=google-play&logoColor=fff&style=for-the-badge" alt="RevenueCat" />
+</div>
+
+### Digital snapshot
+
+> Crafting modern, subscription-ready mobile experiences with bold UIs, smooth motion, and production-grade pipelines.
+
+- **Stacks:** React Native/Expo · Flutter/Dart · Swift/SwiftUI
+- **Look & feel:** Glassy cards, neon accents, dark/light friendly themes, motion-first interactions.
+- **Flow:** Offline-first, fast nav, push-ready, secure auth, observability baked in.
+- **Deploy:** Automated lanes → TestFlight/Play Console with crash + analytics wiring out of the box.
+
 - 📱 Built and shipped **20+ apps** for startups and global clients  
 - 🚀 Comfortable across **cross‑platform (React Native/Expo, Flutter)** and **native iOS**  
 - 🧭 Based in Surat, India — collaborating remotely across time zones  
