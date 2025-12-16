@@ -15,6 +15,16 @@ Senior mobile engineer focused on shipping polished, reliable apps with **React 
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=fff&style=for-the-badge" alt="iOS" />
   <img src="https://img.shields.io/badge/Web-111111?logo=next.js&logoColor=fff&style=for-the-badge" alt="Web" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/CoreML-000000?logo=apple&logoColor=fff&style=for-the-badge" alt="CoreML" />
+  <img src="https://img.shields.io/badge/CreateML-1E1E1E?logo=apple&logoColor=fff&style=for-the-badge" alt="CreateML" />
+  <img src="https://img.shields.io/badge/Vision%20Framework-111827?logo=apple&logoColor=fff&style=for-the-badge" alt="Vision Framework" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-6B21A8?logo=openai&logoColor=fff&style=for-the-badge" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge" alt="Sentry" />
+  <img src="https://img.shields.io/badge/MLOps-0F172A?logo=githubactions&logoColor=22D3EE&style=for-the-badge" alt="MLOps" />
 </div>
 
 ### Digital snapshot
