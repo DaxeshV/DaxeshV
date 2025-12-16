@@ -9,6 +9,12 @@ Senior mobile engineer focused on shipping polished, reliable apps with **React 
   <img src="https://img.shields.io/badge/iOS%20Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" alt="Swift" />
   <img src="https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=fff&style=for-the-badge" alt="Fastlane" />
   <img src="https://img.shields.io/badge/RevenueCat-7C3AED?logo=google-play&logoColor=fff&style=for-the-badge" alt="RevenueCat" />
+  <img src="https://img.shields.io/badge/Superwall-0F172A?logo=vercel&logoColor=38BDF8&style=for-the-badge" alt="Superwall" />
+  <img src="https://img.shields.io/badge/Mixpanel-5F4B8B?logo=mixpanel&logoColor=fff&style=for-the-badge" alt="Mixpanel" />
+  <img src="https://img.shields.io/badge/AppsFlyer-00BCEE?logo=appsflyer&logoColor=fff&style=for-the-badge" alt="AppsFlyer" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=fff&style=for-the-badge" alt="iOS" />
+  <img src="https://img.shields.io/badge/Web-111111?logo=next.js&logoColor=fff&style=for-the-badge" alt="Web" />
 </div>
 
 ### Digital snapshot
