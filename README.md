@@ -3,28 +3,28 @@
 Senior mobile engineer focused on shipping polished, reliable apps with **React Native/Expo**, **Flutter/Dart**, and **iOS (Swift/SwiftUI)**. I love clean architecture, smooth animations, and getting features into the store without drama.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React%20Native-0A0A0A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-111111?logo=expo&logoColor=fff&style=for-the-badge" alt="Expo" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" alt="Flutter" />
-  <img src="https://img.shields.io/badge/iOS%20Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" alt="Swift" />
-  <img src="https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=fff&style=for-the-badge" alt="Fastlane" />
-  <img src="https://img.shields.io/badge/RevenueCat-7C3AED?logo=google-play&logoColor=fff&style=for-the-badge" alt="RevenueCat" />
+  <img src="https://img.shields.io/badge/React%20Native-0D1117?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-0B0B0F?logo=expo&logoColor=white&style=for-the-badge" alt="Expo" />
+  <img src="https://img.shields.io/badge/Flutter-0459E0?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
+  <img src="https://img.shields.io/badge/iOS%20Swift-F05332?logo=swift&logoColor=white&style=for-the-badge" alt="Swift" />
+  <img src="https://img.shields.io/badge/Fastlane-00C853?logo=fastlane&logoColor=white&style=for-the-badge" alt="Fastlane" />
+  <img src="https://img.shields.io/badge/RevenueCat-6D28D9?logo=google-play&logoColor=F3E8FF&style=for-the-badge" alt="RevenueCat" />
   <img src="https://img.shields.io/badge/Superwall-0F172A?logo=vercel&logoColor=38BDF8&style=for-the-badge" alt="Superwall" />
-  <img src="https://img.shields.io/badge/Mixpanel-5F4B8B?logo=mixpanel&logoColor=fff&style=for-the-badge" alt="Mixpanel" />
-  <img src="https://img.shields.io/badge/AppsFlyer-00BCEE?logo=appsflyer&logoColor=fff&style=for-the-badge" alt="AppsFlyer" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=fff&style=for-the-badge" alt="iOS" />
-  <img src="https://img.shields.io/badge/Web-111111?logo=next.js&logoColor=fff&style=for-the-badge" alt="Web" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/CoreML-000000?logo=apple&logoColor=fff&style=for-the-badge" alt="CoreML" />
-  <img src="https://img.shields.io/badge/CreateML-1E1E1E?logo=apple&logoColor=fff&style=for-the-badge" alt="CreateML" />
-  <img src="https://img.shields.io/badge/Vision%20Framework-111827?logo=apple&logoColor=fff&style=for-the-badge" alt="Vision Framework" />
-  <img src="https://img.shields.io/badge/LLM%20APIs-6B21A8?logo=openai&logoColor=fff&style=for-the-badge" alt="LLM APIs" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge" alt="Sentry" />
-  <img src="https://img.shields.io/badge/MLOps-0F172A?logo=githubactions&logoColor=22D3EE&style=for-the-badge" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Mixpanel-6B4EFF?logo=mixpanel&logoColor=ffffff&style=for-the-badge" alt="Mixpanel" />
+  <img src="https://img.shields.io/badge/AppsFlyer-00BFA6?logo=appsflyer&logoColor=ffffff&style=for-the-badge" alt="AppsFlyer" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=0B3B1E&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-0E1014?logo=apple&logoColor=ffffff&style=for-the-badge" alt="iOS" />
+  <img src="https://img.shields.io/badge/Web-0B1224?logo=next.js&logoColor=ffffff&style=for-the-badge" alt="Web" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=0B3B2E&style=for-the-badge" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=111827&style=for-the-badge" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FFB300&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-1A73E8?logo=googlecloud&logoColor=ffffff&style=for-the-badge" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/CoreML-1C1C1C?logo=apple&logoColor=ffffff&style=for-the-badge" alt="CoreML" />
+  <img src="https://img.shields.io/badge/CreateML-2D2D2D?logo=apple&logoColor=E5E7EB&style=for-the-badge" alt="CreateML" />
+  <img src="https://img.shields.io/badge/Vision%20Framework-0F172A?logo=apple&logoColor=E5E7EB&style=for-the-badge" alt="Vision Framework" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-7C3AED?logo=openai&logoColor=ffffff&style=for-the-badge" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/Sentry-FF3366?logo=sentry&logoColor=ffffff&style=for-the-badge" alt="Sentry" />
+  <img src="https://img.shields.io/badge/MLOps-0B3B62?logo=githubactions&logoColor=38BDF8&style=for-the-badge" alt="MLOps" />
 </div>
 
 ### Digital snapshot
