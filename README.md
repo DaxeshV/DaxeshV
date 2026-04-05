@@ -36,7 +36,7 @@ Senior mobile engineer focused on shipping polished, reliable apps with **React 
 - **Flow:** Offline-first, fast nav, push-ready, secure auth, observability baked in.
 - **Deploy:** Automated lanes → TestFlight/Play Console with crash + analytics wiring out of the box.
 
-- 📱 Built and shipped **20+ apps** for startups and global clients  
+- 📱 Built and shipped **50+ apps** for startups and global clients  
 - 🚀 Comfortable across **cross‑platform (React Native/Expo, Flutter)** and **native iOS**  
 - 🧭 Based in Surat, India — collaborating remotely across time zones  
 - ☕ Coding, creativity, coffee — repeat
