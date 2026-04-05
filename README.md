@@ -66,10 +66,6 @@ Senior mobile engineer focused on shipping polished, reliable apps with **React 
 ## Work with me
 Need a React Native/Expo, Flutter, or iOS engineer who ships? I'm available for collaborations, contract work, and consulting.
 
-- Portfolio: https://daxesh.netlify.app/  
-- LinkedIn: https://www.linkedin.com/in/daxesh-vekariya/  
-- Stack Overflow: https://stackoverflow.com/users/6645112/daxesh-vekariya  
-- Email: daxeshdev007@gmail.com
+👉 Connect with me on Upwork. https://www.upwork.com/freelancers/~017bc000ad90e361c2
 
 Let's build something users love.
-
